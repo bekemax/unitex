@@ -7,7 +7,8 @@ authors = [
     { name = "Flet developer", email = "you@example.com" }
 ]
 dependencies = [
-    "flet"
+    "flet",
+    "certifi"
 ]
 
 [dependency-groups]
